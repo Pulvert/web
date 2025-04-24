@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Mí - Mari Cruz psicologia Madrid</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="top-bar">
+        <div class="contact-info">
+            <span>Teléfono: 610 89 48 50</span>
+            <span>Email: info@mcpsicologia.com</span>
+        </div>
+        <div class="social-icons">
+            <a href="https://www.facebook.com" target="_blank">
+                <img src="Facebook.png" alt="Facebook">
+            </a>
+            <a href="https://www.instagram.com" target="_blank">
+                <img src="Instagram.png" alt="Instagram">
+            </a>
+        </div>
+    </div>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="sobre-mi.html">Sobre mí</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#tratamientos">Tratamientos</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="sobre-mi">
+            <h1>QUIÉN SOY</h1>
+            <p>En 1.996 me licencié en Psicología en la Universidad de Comillas de Madrid, cursando la especialidad de Psicología Clínica y Salud. Posteriormente me especialicé en Clínica y Psicoterapia y finalicé esta formación obteniendo el título de Experta en Psicología Clínica Cognitivo-Conductual.
+Actualmente realizo terapia individual con población adulta y adolescente, terapia de pareja y terapia de familia.
+En etapas anteriores he trabajado distintas patologías mentales en el ámbito hospitalario, desde trastornos psicóticos como la esquizofrenia, pasando por trastornos relacionados con el consumo de alcohol o sustancias psicoactivas, trastornos graves de personalidad, trastornos depresivos severos y trastornos bipolares, hasta trastornos de alimentación en situación de ingreso, como la anorexia y la bulimia.
+La orientación terapéutica desde la que trabajo es la Cognitivo Conductual..</p>
+	<h1>CÓMO TRABAJO EN MI GABINETE PSICOLÓGICO</h1>
+	<p> Establezco y cuido una relación de apoyo incondicional, ausente de juicio con mis pacientes.<br>
+	<br> Creo un clima de confianza, aceptación y confidencialidad donde los pacientes se sienten cómodos para expresar sus problemas y emociones, consiguiendo una adecuada relación terapeútica para lograr buenos resultados.<br>
+	<br> Utilizo técnicas cognitivo-conductuales, donde el objetivo de tratamiento es la conducta y sus procesos subyacentes, en sus distintos niveles (conductual, cognitivo, fisiológico y emocinal), incluyendo tanto aspectos manifiestos como encubiertos.<br>
+	<br> Considero las distintas problemáticas como básicamente aprendidas, consecuencia de los distintos factores que han influido en la historia de cada persona, teniendo en cuenta también factores biológicos y sociales.<br>
+	<br> Mi objetivo de intervención, es el cambio conductual, cognitivo y emocional modificando los procesos cognitivos base de "las conductas problema", (cada problema que presenta el paciente).<br>
+	</p>
+	<h1>VOY A ENSEÑARTE</h1>
+	<p>  A conseguir un mejor conocimiento de tí mismo, comprendiendo cómo tus emociones, conductas y pensamientos se interrelacionan entre sí y dan forma a tu malestar.<br>
+	<br> A saber cómo afrontar tus problemas, y cómo aprender estrategias adecuadas para controlar tus emociones negativas.<br>
+	<br> A mejorar tu capacidad para tomar decisiones y a adquirir una sana autoestima que te permitirá relacionarte mejor.<br>
+	</p>
+        </section>
+    </main>
+</body>
+</html>
